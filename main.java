@@ -4,7 +4,8 @@ class main
 {
    int count=10000;
    for (i=0;i<=count;i++){
-   System.out.println("i  love you");
+   System.out.println("Hello Pammi!");
  }
 }
+
 }
